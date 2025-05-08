@@ -2,4 +2,4 @@
 Farkli Dialog Projeleri
 
 
-![Screenshot](https://github.com/kaplanerkan/CustomRadioButtonsXml/blob/main/custom_radio_buttons.jpg)
+![Screenshot](https://https://github.com/kaplanerkan/MyDialogPlus/blob/main/dialogplus.jpg)
